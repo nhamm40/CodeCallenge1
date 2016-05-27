@@ -1,0 +1,9 @@
+C:\Source\vAutoChallenge\vAutoChallenge\bin\Debug\vAutoChallenge.exe.config
+C:\Source\vAutoChallenge\vAutoChallenge\bin\Debug\vAutoChallenge.exe
+C:\Source\vAutoChallenge\vAutoChallenge\bin\Debug\vAutoChallenge.pdb
+C:\Source\vAutoChallenge\vAutoChallenge\obj\Debug\vAutoChallenge.csprojResolveAssemblyReference.cache
+C:\Source\vAutoChallenge\vAutoChallenge\obj\Debug\vAutoChallenge.exe
+C:\Source\vAutoChallenge\vAutoChallenge\obj\Debug\vAutoChallenge.pdb
+C:\Source\CodeCallenge1\vAutoChallenge\bin\Debug\vAutoChallenge.exe.config
+C:\Source\CodeCallenge1\vAutoChallenge\obj\Debug\vAutoChallenge.exe
+C:\Source\CodeCallenge1\vAutoChallenge\obj\Debug\vAutoChallenge.pdb
