@@ -26,17 +26,14 @@ namespace vAutoChallenge
     {
         private static readonly IStringManager StringManager = new StringManager();
 
-        private static void Main(string[] args)
+        private static void Main()
         {
             Console.WriteLine("Please enter a string of words. (The string can be any number of words)");
             var inputString = Console.ReadLine();
 
             var result = StringManager.StringModifier(inputString);
 
-            foreach (var item in result)
-            {
-                Console.WriteLine(item.FirstLetter + item.StringLength + item.LastLetter);
-            }
+            Console.WriteLine(result);
             Console.ReadKey();
         }
     }

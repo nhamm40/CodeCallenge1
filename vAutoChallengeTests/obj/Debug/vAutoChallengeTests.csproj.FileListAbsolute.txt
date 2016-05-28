@@ -1,0 +1,8 @@
+C:\Source\CodeCallenge1\vAutoChallengeTests\bin\Debug\vAutoChallengeTests.dll
+C:\Source\CodeCallenge1\vAutoChallengeTests\bin\Debug\vAutoChallengeTests.pdb
+C:\Source\CodeCallenge1\vAutoChallengeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Source\CodeCallenge1\vAutoChallengeTests\bin\Debug\vAutoChallenge.exe
+C:\Source\CodeCallenge1\vAutoChallengeTests\bin\Debug\vAutoChallenge.pdb
+C:\Source\CodeCallenge1\vAutoChallengeTests\obj\Debug\vAutoChallengeTests.csprojResolveAssemblyReference.cache
+C:\Source\CodeCallenge1\vAutoChallengeTests\obj\Debug\vAutoChallengeTests.dll
+C:\Source\CodeCallenge1\vAutoChallengeTests\obj\Debug\vAutoChallengeTests.pdb

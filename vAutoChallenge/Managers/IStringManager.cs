@@ -1,10 +1,7 @@
-﻿using System.Collections.Generic;
-using vAutoChallenge.Models;
-
-namespace vAutoChallenge.Managers
+﻿namespace vAutoChallenge.Managers
 {
-    interface IStringManager
+    public interface IStringManager
     {
-        List<StringItems> StringModifier(string input);
+        string StringModifier(string input);
     }
 }

@@ -6,6 +6,5 @@
         public string FirstLetter { get; set; }
         public string LastLetter { get; set; }
         public int StringLength { get; set; }
-
     }
 }
